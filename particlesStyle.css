@@ -1,4 +1,35 @@
-#particles-js {
-    background: rgb(255, 255, 255) ;
-    height: 1000px;
+body {
+    margin:0;
+    font: normal 24px Arial, Helvetica, sand-serif;
+    color:rgb(26, 13, 13);
+}
+
+#particles-js{
+    background:firebrick;
+    height: 700px;
+    text-align: center;
+    position: relative;
+    
+}
+
+.text-image{
+    position: absolute;
+    margin: auto;
+    padding:2em;
+    top: 0;
+    left:0;
+    right:0;
+    bottom:0;
+    color:#fff;
+    height:350px;
+}
+
+.display1{
+    font-size: 6rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.display1{
+    height:10px;
 }
