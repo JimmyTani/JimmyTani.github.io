@@ -1,7 +1,7 @@
 {
     "particles":{
         "number":{
-            "value":250
+            "value":450
         },
         "color": {
             "value": "#fff"
@@ -20,7 +20,7 @@
             "value": 2
         },
         "line_linked": {
-            "color" : "#000"
+            "color" : "#8C8E0B"
         }
     }
 }

@@ -5,7 +5,7 @@ body {
 }
 
 #particles-js{
-    background:firebrick;
+    background:rgb(36, 231, 222);
     height: 700px;
     text-align: center;
     position: relative;
@@ -15,21 +15,22 @@ body {
 .text-image{
     position: absolute;
     margin: auto;
-    padding:2em;
+    padding:0;
     top: 0;
     left:0;
     right:0;
     bottom:0;
-    color:#fff;
+    color:rgb(81, 88, 0);
     height:350px;
 }
 
 .display1{
     font-size: 6rem;
-    font-weight: 300;
+    font-weight: 200;
     line-height: 1.2;
 }
 
-.display1{
-    height:10px;
+.display2{
+    font-size: 3rem;
+    line-height: 1;
 }
