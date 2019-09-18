@@ -20,7 +20,12 @@ body {
     left:0;
     right:0;
     bottom:0;
-    color:rgb(141, 0, 122);
+    color:rgb(163, 225, 233);
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
     height:250px;
 }
 
@@ -64,6 +69,6 @@ body {
 }
 
 .contact-me {
-    background:rgb(122, 112, 112);
-    color:rgb(214, 212, 212);
+    background:rgb(48, 130, 168);
+    color:rgb(29, 216, 230);
 }
