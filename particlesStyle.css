@@ -20,7 +20,7 @@ body {
     left:0;
     right:0;
     bottom:0;
-    color:rgb(81, 88, 0);
+    color:rgb(141, 0, 122);
     height:250px;
 }
 
@@ -37,7 +37,7 @@ body {
     text-align: center;
     font-size: 3rem;
     line-height: 1.5;
-    color:rgb(56, 56, 167);
+    color:rgb(122, 122, 221);
 }
 
 .selfie {
@@ -50,11 +50,14 @@ body {
 
 .section2 {
     background:rgb(163, 225, 233);
-    
 }
 
 .experience-headers {
     font-weight: bold;
     font-size:2rem;
     padding-left: 130px;
+}
+
+.experience-text {
+    font-size:20px;
 }
