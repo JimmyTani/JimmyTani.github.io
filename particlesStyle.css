@@ -35,7 +35,8 @@ body {
 
 .section-header{
     text-align: center;
-    font-size: 3rem;
+    font-size: 3rem !important;
+    font-weight: normal !important;
     line-height: 1.5;
     color:rgb(122, 122, 221);
 }
@@ -60,4 +61,9 @@ body {
 
 .experience-text {
     font-size:20px;
+}
+
+.contact-me {
+    background:rgb(122, 112, 112);
+    color:rgb(214, 212, 212);
 }
