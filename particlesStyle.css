@@ -1,74 +1,90 @@
 body {
-    margin:0;
+    margin: 0;
     font: normal 24px Arial, Helvetica, sand-serif;
-    color:rgb(26, 13, 13);
+    color: rgb(26, 13, 13);
 }
 
-#particles-js{
-    background:rgb(36, 231, 222);
-    height: 700px;
+#particles-js {
+    background: rgb(36, 231, 222);
+    height: 100%;
     text-align: center;
     position: relative;
-    
 }
 
-.text-image{
+.text-image {
     position: absolute;
     margin: auto;
-    padding:0;
+    padding: 0;
     top: 0;
-    left:0;
-    right:0;
-    bottom:0;
-    color:rgb(163, 225, 233);
-    text-shadow:
-   -1px -1px 0 #000,  
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-     1px 1px 0 #000;
-    height:250px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: rgb(163, 225, 233);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    height: 250px;
 }
 
-.display1{
+.display1 {
     font-size: 6rem;
     font-weight: 400;
 }
 
-.display2{
+.display2 {
     font-size: 3rem;
 }
 
-.section-header{
+.section-header {
     text-align: center;
     font-size: 3rem !important;
     font-weight: normal !important;
     line-height: 1.5;
-    color:rgb(122, 122, 221);
+    color: rgb(122, 122, 221);
 }
 
 .selfie {
     border-radius: 50%;
-    display:block;
+    display: block;
     margin-left: auto;
-    margin-right:auto;
+    margin-right: auto;
     padding-bottom: 50px;
 }
 
 .section2 {
-    background:rgb(163, 225, 233);
+    background: rgb(163, 225, 233);
 }
 
 .experience-headers {
     font-weight: bold;
-    font-size:2rem;
+    font-size: 2rem;
     padding-left: 130px;
 }
 
 .experience-text {
-    font-size:20px;
+    font-size: 20px;
 }
 
 .contact-me {
-    background:rgb(48, 130, 168);
-    color:rgb(29, 216, 230);
+    background: rgb(75, 148, 182);
+    color: rgb(122, 197, 219);
+}
+
+.contact-info {
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(122, 197, 219);
+}
+
+.fa {
+    padding: 5px;
+}
+
+.fa-google {
+    background: rgb(175, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+
+.fa-linkedin {
+    background: rgb(17, 101, 180);
+    color: white;
 }
