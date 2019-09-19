@@ -41,6 +41,10 @@ body {
     color: rgb(122, 122, 221);
 }
 
+.summary {
+    font-size:1.2rem;
+}
+
 .selfie {
     border-radius: 50%;
     display: block;
@@ -49,7 +53,7 @@ body {
     padding-bottom: 50px;
 }
 
-.section2 {
+.experience {
     background: rgb(163, 225, 233);
 }
 
